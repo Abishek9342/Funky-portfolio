@@ -2,6 +2,11 @@
 
 Newest entry first.
 
+## 2026-11-06 (later): pushed to GitHub
+- First commit pushed to https://github.com/Abishek9342/Funky-portfolio (branch main; repo was empty).
+  No hosting set up for it yet (only the old portfolio is on Netlify).
+- Same day the old portfolio got Playroom too (experience "Personal projects" + Buddy FAQ), pushed and live.
+
 ## 2026-11-06 (later): hero cards removed
 - Removed the "AS" monogram card and the floating "Finance Ops Platform" card (user didn't want them);
   hero is one column now, CSS for both gone. Checked 1440/390: no sideways scroll, swarm skip leaves 0 hidden.

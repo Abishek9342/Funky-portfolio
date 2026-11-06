@@ -4,8 +4,8 @@ Read `handoff.md` first; add a dated entry at the top after every session.
 
 A second, separate version of Abishek's portfolio in the style of saai.pro (noir and crimson, giant
 outlined PORTFOLIO hero, code-style section labels), with a "swarm" intro: the page starts blank and
-named cursors rebuild it live. The current site (`../portfolio-site`, Netlify) is NOT touched; if the
-user prefers v2 it may replace it later. Local only for now: no git repo, no hosting.
+named cursors rebuild it live. The current site (`../portfolio-site`, Netlify) is separate; if the
+user prefers v2 it may replace it later. Repo: https://github.com/Abishek9342/Funky-portfolio (main). No hosting yet.
 
 - React 19 + TypeScript + Vite. `npm install`, `npm run dev` -> http://localhost:5175, `npm run build`.
 - Content: `src/data/content.ts` is a COPY (plus `playroom`, v2 only) of `../portfolio-site/src/data/content.ts` (same facts as the
