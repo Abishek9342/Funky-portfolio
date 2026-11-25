@@ -3,8 +3,8 @@
 Read `handoff.md` first; add a dated entry at the top after every session.
 
 Third version of Abishek's portfolio: one full-screen three.js world behind the HTML, a scroll-driven
-camera, film-title chrome and a Blender-style Viewport/Rendered switch. Local only (no git remote, no
-hosting yet). `../portfolio-site` (live, Netlify) and `../portfolio-v2` must not be modified from here.
+camera, film-title chrome and a Blender-style Viewport/Rendered switch. Git: branch `v3-blender` of GitHub `Abishek9342/Funky-portfolio`
+(own history; `main` there is portfolio-v2). Not hosted yet. `../portfolio-site` (live, Netlify) and `../portfolio-v2` must not be modified from here.
 
 - React 19 + TS + Vite 8 (rolldown); three 0.187, @react-three/fiber 9, drei 10, @react-three/postprocessing 3
   (+ postprocessing 6), lenis 1.3.28, maath 0.10.8. Versions pinned exactly. No animation library: HTML

@@ -2,6 +2,12 @@
 
 Newest entry first.
 
+## 2026-11-25 (late night): pushed to GitHub
+
+- User asked to push v3 to a NEW branch of `Abishek9342/Funky-portfolio`. `git init -b v3-blender`, first commit,
+  pushed `origin/v3-blender` (independent history; `main` = v2, untouched). gitignore keeps node_modules, dist,
+  screenshots out. Not hosted anywhere yet.
+
 ## 2026-11-25 (night): chrome removed, wizard figure
 
 - Removed per user: "Scroll to render" cue (App.tsx), the letterbox bars (`.letterbox` div gone, `--bar: 0px`
